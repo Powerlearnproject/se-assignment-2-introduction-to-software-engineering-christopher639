@@ -34,12 +34,23 @@ Agile vs. Waterfall Models:
 **Agile emphasizes adaptability and collaboration, iterating quickly, while Waterfall follows a sequential approach with distinct phases and strict planning.**
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-                        
+**** Key Differences:****
+
+**Project Flow**: Agile is iterative, meaning development happens in short cycles (sprints) with continuous feedback and adaptation. Waterfall is sequential, progressing through clearly defined phases (requirements, design, development, testing) one after another.
+**Flexibility:** Agile embraces change throughout the project. Waterfall assumes stable requirements from the beginning.
+Customer Involvement: Agile prioritizes close collaboration with customers for continuous feedback and refinement. Waterfall involves less frequent customer interaction.
+**Documentation:** Agile focuses on working software over extensive documentation. Waterfall requires detailed documentation upfront.                       
 Requirements Engineering:
-
+**Definition:** The process of gathering, analyzing, and documenting software user needs and functionalities.
+**Process:** It involves stakeholder interviews, user research, and feasibility studies. Requirements are documented using tools like Use Case diagrams or user stories.
+**Importance:** Clear requirements ensure the developed software meets user expectations and avoids costly rework later.
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+**Definition:** The process of gathering, analyzing, and documenting software user needs and functionalities.
 Software Design Principles:
-
+**Modularity:** Breaking down complex systems into smaller, independent, and reusable modules.
+Benefits:
+**Maintainability:** Easier to modify or fix individual modules without impacting the entire system.
+**Scalability:** Modules can be easily added or removed to accommodate future growth.
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 
